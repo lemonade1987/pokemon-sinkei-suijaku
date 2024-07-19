@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pokemon-sinkei-suizaku/static/css/main.332fe2f3.css",
-    "main.js": "/pokemon-sinkei-suizaku/static/js/main.7bc20822.js",
-    "static/js/453.73e7c25f.chunk.js": "/pokemon-sinkei-suizaku/static/js/453.73e7c25f.chunk.js",
-    "service-worker.js": "/pokemon-sinkei-suizaku/service-worker.js",
-    "index.html": "/pokemon-sinkei-suizaku/index.html",
-    "main.332fe2f3.css.map": "/pokemon-sinkei-suizaku/static/css/main.332fe2f3.css.map",
-    "main.7bc20822.js.map": "/pokemon-sinkei-suizaku/static/js/main.7bc20822.js.map",
-    "453.73e7c25f.chunk.js.map": "/pokemon-sinkei-suizaku/static/js/453.73e7c25f.chunk.js.map"
+    "main.css": "/pokemon-sinkei-suijaku/static/css/main.332fe2f3.css",
+    "main.js": "/pokemon-sinkei-suijaku/static/js/main.c8a2fe4b.js",
+    "static/js/453.880c6041.chunk.js": "/pokemon-sinkei-suijaku/static/js/453.880c6041.chunk.js",
+    "service-worker.js": "/pokemon-sinkei-suijaku/service-worker.js",
+    "index.html": "/pokemon-sinkei-suijaku/index.html",
+    "main.332fe2f3.css.map": "/pokemon-sinkei-suijaku/static/css/main.332fe2f3.css.map",
+    "main.c8a2fe4b.js.map": "/pokemon-sinkei-suijaku/static/js/main.c8a2fe4b.js.map",
+    "453.880c6041.chunk.js.map": "/pokemon-sinkei-suijaku/static/js/453.880c6041.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.332fe2f3.css",
-    "static/js/main.7bc20822.js"
+    "static/js/main.c8a2fe4b.js"
   ]
 }
