@@ -220,12 +220,15 @@ const Play = () => {
               <FontAwesomeIcon icon={faVolumeHigh} />　　　{turnUser.name}　の　じゅんばん　だよ！
             </h3>
           </div>
+          {/*
           <div className='icon' onClick={()=>navigate('/' , { 
             state: {
               numOfCard: numOfCard,
               player: originPlayer
             } 
           })}><FontAwesomeIcon icon={faBook} /></div>
+          */}
+          <div className='icon'><FontAwesomeIcon icon={faBook} /></div>
       <div className='board-container'>
         {
           player.map((p, i) => {
