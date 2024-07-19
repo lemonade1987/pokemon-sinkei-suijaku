@@ -2,6 +2,7 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import { useState, useEffect} from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faHeart, faBook, faVolumeHigh, faAngleLeft } from '@fortawesome/free-solid-svg-icons';
+import { Helmet } from 'react-helmet-async';
 
 const getIndexOfPlayer = (no, player) => {
   for(let i in player) {
@@ -68,6 +69,7 @@ const initCards = (numOfCard) => {
 
 const Play = () => {
 
+  const componentName = 'ポケモンしんけいすいじゃく - Play';
   const location = useLocation();
   const navigate = useNavigate();
   
@@ -202,8 +204,11 @@ const Play = () => {
   };
 
   return (
+    
     <div className='main-container'>
-
+        <Helmet>
+          <title>{componentName}</title>
+        </Helmet>
         <div className='icon' onClick={()=>navigate('/' , { 
             state: {
               numOfCard: numOfCard,

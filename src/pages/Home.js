@@ -1,8 +1,10 @@
 import { useEffect, useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
+import { Helmet } from 'react-helmet-async';
 
 const Home = () => {
 
+  const componentName = 'ポケモンしんけいすいじゃく - Home'
   const location = useLocation();
   const navigate = useNavigate();
    
@@ -23,6 +25,9 @@ const Home = () => {
 
   return (
     <div className='main-bg'>
+      <Helmet>
+        <title>{componentName}</title>
+      </Helmet>
       <div className="game-set">
         <h3>カードは　なんまいで　あそびますか？</h3>
         <CardSelection numOfCard={numOfCard} setCardNum={setCardNum} />
