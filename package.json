@@ -15,7 +15,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.0"
   },
-  "homepage": "https://lemonade1987.github.io/pokemon-sinkei-suizaku",
+  "homepage": "https://lemonade1987.github.io/pokemon-sinkei-suizaku/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
