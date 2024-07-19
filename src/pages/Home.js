@@ -5,7 +5,7 @@ const Home = () => {
 
   const location = useLocation();
   const navigate = useNavigate();
-  
+   
   let initNumOfCard, initPlayer;
   if (location.state === null) {
     initNumOfCard = 32;
