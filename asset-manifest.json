@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pokemon-sinkei-suijaku/static/css/main.14367603.css",
-    "main.js": "/pokemon-sinkei-suijaku/static/js/main.aa239083.js",
+    "main.css": "/pokemon-sinkei-suijaku/static/css/main.fbd57900.css",
+    "main.js": "/pokemon-sinkei-suijaku/static/js/main.8dfff507.js",
     "static/js/453.880c6041.chunk.js": "/pokemon-sinkei-suijaku/static/js/453.880c6041.chunk.js",
     "service-worker.js": "/pokemon-sinkei-suijaku/service-worker.js",
     "index.html": "/pokemon-sinkei-suijaku/index.html",
-    "main.14367603.css.map": "/pokemon-sinkei-suijaku/static/css/main.14367603.css.map",
-    "main.aa239083.js.map": "/pokemon-sinkei-suijaku/static/js/main.aa239083.js.map",
+    "main.fbd57900.css.map": "/pokemon-sinkei-suijaku/static/css/main.fbd57900.css.map",
+    "main.8dfff507.js.map": "/pokemon-sinkei-suijaku/static/js/main.8dfff507.js.map",
     "453.880c6041.chunk.js.map": "/pokemon-sinkei-suijaku/static/js/453.880c6041.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14367603.css",
-    "static/js/main.aa239083.js"
+    "static/css/main.fbd57900.css",
+    "static/js/main.8dfff507.js"
   ]
 }
